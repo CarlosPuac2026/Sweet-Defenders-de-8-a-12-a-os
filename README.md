@@ -1,13 +1,14 @@
-#SWEET DWFENDERS 
+# SWEET DWFENDERS 
 Un ejército de monstruos hechos de dulces ha invadido la ciudad. Los jugadores son héroes 
 que deben avanzar por distintos escenarios para detenerlos antes de que conviertan todo en 
 azúcar pegajosa. 
 
-#DIAGGRAMA DE FLUJO 
+ # DIAGGRAMA DE FLUJO 
+ 
 HICE UN DIAGRAMA DEL JUEGO 
 
-#CODIGO 
+# CODIGO 
 HICE EL CODIGO DEM MENU 
 
-#ENTREGA 
+# ENTREGA 
 ENTRGUE EL PROYECTO 
